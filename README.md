@@ -156,4 +156,8 @@ Employee-Turnover-Analytics/
 ├── HR_comma_sep.csv
 ├── employee_turnover.py
 └── README.md
-```
+# Employee Turnover Analytics using Machine Learning
+
+**Author:** Digvijaysinh Thorve
+
+## Project Overview
