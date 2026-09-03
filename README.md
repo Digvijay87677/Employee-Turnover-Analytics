@@ -1,5 +1,11 @@
 # Employee Turnover Analytics using Machine Learning
 
+**Author:** Digvijaysinh Thorve
+
+## Project Overview
+
+# Employee Turnover Analytics using Machine Learning
+
 ## Project Overview
 
 This project analyzes employee turnover using an HR dataset and
